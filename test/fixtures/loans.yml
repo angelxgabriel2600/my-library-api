@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  iduser: 1
+  idbook: 1
+  username: MyString
+  bookname: MyString
+  total:1
+
+two:
+  iduser: 1
+  idbook: 1
+  username: MyString
+  bookname: MyString
+  total:1
